@@ -1,0 +1,14 @@
+[ 
+    { 
+        "name": "hero project1",
+        "live": "https://hero-project1.vercel.app/", 
+        "git": "https://github.com/joshbolanos7/hero-project1", 
+        "image": "https://i.imgur.com/sEN6ZuJ.png"
+    }, 
+    {
+        "name": "Soccer Player Stat", 
+        "live": "https://soccerplayerstats-project2.herokuapp.com/",
+        "git": "https://github.com/joshbolanos7/josh-project2",
+        "image": "https://i.imgur.com/H4HNAD2.jpg?1"
+    }
+]
