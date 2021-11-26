@@ -10,5 +10,11 @@
         "live": "https://soccerplayerstats-project2.herokuapp.com/",
         "git": "https://github.com/joshbolanos7/josh-project2",
         "image": "https://i.imgur.com/H4HNAD2.jpg?1"
+    },
+    {
+        "name": "F1 Racing Profile",
+        "live": "https://laughing-engelbart-edcaf6.netlify.app",
+        "git": "https://github.com/joshbolanos7/project3-frontend",
+        "image": "https://raw.githubusercontent.com/joshbolanos7/project3-frontend/master/src/public/images/Project3-screenshot.png"
     }
 ]
