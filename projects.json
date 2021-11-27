@@ -16,5 +16,11 @@
         "live": "https://laughing-engelbart-edcaf6.netlify.app",
         "git": "https://github.com/joshbolanos7/project3-frontend",
         "image": "https://raw.githubusercontent.com/joshbolanos7/project3-frontend/master/src/public/images/Project3-screenshot.png"
+    },
+    {
+        "name": "GA Club",
+        "live": "https://ga-club-frontend.herokuapp.com/",
+        "git": "https://github.com/joshbolanos7/project4-frontend",
+        "image": "https://i.imgur.com/RPG9hF6.png"
     }
 ]
